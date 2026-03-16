@@ -1,0 +1,18 @@
+{
+  "name": "yield-aggregator-v1",
+  "version": "1.0.0",
+  "description": "DeFi Yield Aggregator and Vault System",
+  "main": "YieldVault.sol",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "keywords": [
+    "defi",
+    "yield-farming",
+    "vault",
+    "solidity",
+    "ethereum"
+  ],
+  "author": "Nazrul",
+  "license": "MIT"
+}
